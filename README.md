@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dealmeidafernando/dealmeidafernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernando-almeida-dev/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://app.daily.dev/dealmeida" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/dealmeidafernando/dealmeidafernando/blob/devcard/devcard.svg"
+      alt="Fernando Almeida's Dev Card"/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am Fernando Almeida
+
+- Developer at [Gamers Club](https://gamersclub.gg/)
+- Loves a freshly brewed cup of coffee
+
+![Metrics](https://raw.githubusercontent.com/dealmeidafernando/dealmeidafernando/github-metrics/github-metrics.svg)
