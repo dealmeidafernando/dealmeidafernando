@@ -20,7 +20,7 @@
 
 ## I am Fernando Almeida
 
-- Developer at [Gamers Club](https://gamersclub.gg/)
+- Developer at [Conta Simples](https://contasimples.com/)
 - Loves a freshly brewed cup of coffee
 
 ![Metrics](https://raw.githubusercontent.com/dealmeidafernando/dealmeidafernando/github-metrics/github-metrics.svg)
